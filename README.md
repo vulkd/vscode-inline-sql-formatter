@@ -4,7 +4,7 @@
 
 ## About & Usage
  - Created quickly to fill a need of formatting inline sql in javascript & python files.
- - Select any SQL. Open and choose 'SQL Inline Format' from the command palette.
+ - Select any SQL. Open and choose `SQL Inline Format` from the command palette.
  - Based off of [https://github.com/cymonbr/SqlFormatter-VSCode](https://github.com/cymonbr/SqlFormatter-VSCode)
  - Powered by [https://www.npmjs.com/package/sql-formatter](https://www.npmjs.com/package/sql-formatter).
  - Might add configuration options if I get the time. Feel free to submit a PR.
