@@ -1,5 +1,7 @@
 # inline-sql-formatter 
 
+[https://marketplace.visualstudio.com/items?itemName=vulkd.inline-sql-formatter](https://marketplace.visualstudio.com/items?itemName=vulkd.inline-sql-formatter)
+
 ## About & Usage
  - Created quickly to fill a need of formatting inline sql in javascript & python files.
  - Select any SQL. Open and choose 'SQL Inline Format' from the command palette.

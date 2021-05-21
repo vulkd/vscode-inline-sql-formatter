@@ -1,6 +1,11 @@
 {
   "name": "inline-sql-formatter",
   "author": "https://github.com/vulkd",
+  "publisher": "vulkd",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vulkd/vscode-inline-sql-formatter.git"
+  },
   "displayName": "Inline SQL Formatter",
   "description": "Formats inline SQL",
   "version": "0.0.1",
